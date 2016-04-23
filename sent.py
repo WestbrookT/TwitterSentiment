@@ -3,9 +3,7 @@ import tweepy, pickle
 
 
 
-token = 'YHAvhwQJ83PtPXg9ZMTOrQvYV'
 
-secret_key = 'dJG4yNLqJVc4ALm3yEoV8YYTVYRWCt9onTkaRURRQrhq6xxZp6'
 
 
 
